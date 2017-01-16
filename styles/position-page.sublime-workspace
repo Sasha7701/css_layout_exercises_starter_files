@@ -1,0 +1,537 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"backgroung",
+				"background-image"
+			],
+			[
+				"bl",
+				"black"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"J",
+				"jQuery"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"car",
+				"cars"
+			],
+			[
+				"g",
+				"getFavorite"
+			],
+			[
+				"coll",
+				"collapsemenu"
+			],
+			[
+				"na",
+				"navbar"
+			],
+			[
+				"se",
+				"setTimeout"
+			],
+			[
+				"t",
+				"trivia"
+			],
+			[
+				"new",
+				"newParagraph"
+			],
+			[
+				"m",
+				"myVar"
+			],
+			[
+				"my",
+				"myArray"
+			],
+			[
+				"pr",
+				"productString"
+			],
+			[
+				"pro",
+				"product"
+			],
+			[
+				"va",
+				"values"
+			],
+			[
+				"val",
+				"values"
+			],
+			[
+				"myM",
+				"myMaxYLimit"
+			],
+			[
+				"myMax",
+				"myMaxYLimit"
+			],
+			[
+				"v",
+				"myValue"
+			],
+			[
+				"e",
+				"else"
+			],
+			[
+				"k",
+				"knowJavaScript"
+			],
+			[
+				"text",
+				"textOutput"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"c",
+				"calculateTax"
+			],
+			[
+				"tax",
+				"tax"
+			],
+			[
+				"ch",
+				"changeScore"
+			],
+			[
+				"sc",
+				"scoreDelta"
+			],
+			[
+				"im",
+				"image1"
+			],
+			[
+				"ca",
+				"caveList"
+			],
+			[
+				"te",
+				"tempValue"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"f",
+				"function"
+			],
+			[
+				"cu",
+				"currentHour"
+			],
+			[
+				"so",
+				"someValue"
+			],
+			[
+				"s",
+				"someValue"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"su",
+				"substitute"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"si",
+				"font-size"
+			],
+			[
+				"border",
+				"border-top"
+			],
+			[
+				"border-to",
+				"border-top-color"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"p",
+				"placeholder\tAttr"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"r",
+				"required\tAttr"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"cl",
+				"class\tAttr"
+			],
+			[
+				"margin-",
+				"margin-right"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"text-s",
+				"text-decoration-style"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/poloNYc01/Desktop/JS/Loop.html",
+		"/C/Users/poloNYc01/Desktop/projects/css_layout_exercises_starter_files/float-exercise.html",
+		"/C/Users/poloNYc01/Desktop/projects/css_layout_exercises_starter_files/styles/display-page.css",
+		"/C/Users/poloNYc01/Desktop/projects/css_layout_exercises_starter_files/display-exercise.html",
+		"/C/Users/poloNYc01/Desktop/thinkful.html",
+		"/C/Users/poloNYc01/Desktop/speedLimit.html",
+		"/C/Users/poloNYc01/Desktop/Ex_Files_JS_EssT_2011/Ex_Files_JS_EssT_2011/Exercise Files/Chap06/FocusAndBlur/script.js",
+		"/C/Users/poloNYc01/Desktop/Ex_Files_JS_EssT_2011/Ex_Files_JS_EssT_2011/Exercise Files/Chap01/myscript.js",
+		"/C/Users/poloNYc01/Desktop/Ex_Files_FoP_Fun/Ex_Files_FoP_Fun/Exercise Files/ch02/Input/container.html",
+		"/C/Users/poloNYc01/Desktop/Ex_Files_FoP_Fun/Ex_Files_FoP_Fun/Exercise Files/ch02/Input/script.js",
+		"/C/Users/poloNYc01/Desktop/JS/helloworld.html",
+		"/C/Users/poloNYc01/Desktop/Ex_Files_JS_EssT_2011/Ex_Files_JS_EssT_2011/Exercise Files/Chap11/jQueryIntro/script.js",
+		"/C/Users/poloNYc01/Desktop/Ex_Files_JS_EssT_2011/Ex_Files_JS_EssT_2011/Exercise Files/Chap11/jQueryIntro/tours.htm",
+		"/C/Users/poloNYc01/Desktop/Ex_Files_JS_EssT_2011/Ex_Files_JS_EssT_2011/Exercise Files/Chap09/InlineStyles/script.js",
+		"/C/Users/poloNYc01/Desktop/Ex_Files_JS_EssT_2011/Ex_Files_JS_EssT_2011/Exercise Files/Chap09/InlineStyles/mission.htm",
+		"/C/Users/poloNYc01/Desktop/Ex_Files_JS_EssT_2011/Ex_Files_JS_EssT_2011/Exercise Files/Chap09/ApplyingClasses/_css/main.css",
+		"/C/Users/poloNYc01/Desktop/Ex_Files_JS_EssT_2011/Ex_Files_JS_EssT_2011/Exercise Files/Chap09/ApplyingClasses/script.js",
+		"/C/Users/poloNYc01/Desktop/Ex_Files_JS_EssT_2011/Ex_Files_JS_EssT_2011/Exercise Files/Chap09/ApplyingClasses/index.htm",
+		"/C/Users/poloNYc01/Desktop/Ex_Files_JS_EssT_2011/Ex_Files_JS_EssT_2011/Exercise Files/Chap08/PreventSubmission/script.js",
+		"/C/Users/poloNYc01/Desktop/Ex_Files_JS_EssT_2011/Ex_Files_JS_EssT_2011/Exercise Files/Chap08/PreventSubmission/contact.htm",
+		"/C/Users/poloNYc01/Desktop/Ex_Files_JS_EssT_2011/Ex_Files_JS_EssT_2011/Exercise Files/Chap08/PreventSubmission/thanks.htm",
+		"/C/Users/poloNYc01/Desktop/Ex_Files_Bs3EssT/Exercise Files/Ch06/06_05/bootstrap/css/styles.css",
+		"/C/Users/poloNYc01/Desktop/Ex_Files_Bs3EssT/Exercise Files/Ch06/06_05/bootstrap/index.html",
+		"/C/Users/poloNYc01/Desktop/Ex_Files_Bs3EssT/Exercise Files/Ch06/06_05/bootstrap/fonts/glyphicons-halflings-regular.svg",
+		"/C/Users/poloNYc01/Desktop/Ex_Files_Bs3EssT/Exercise Files/Ch06/06_05/bootstrap/css/bootstrap.min.css",
+		"/C/Users/poloNYc01/Desktop/Ex_Files_Bs3EssT.zip",
+		"/C/Users/poloNYc01/Desktop/Ex_Files_JS_EssT_2011/Ex_Files_JS_EssT_2011/Exercise Files/Chap07/UsingDebugger/index.htm",
+		"/C/Users/poloNYc01/Desktop/Ex_Files_JS_EssT_2011/Ex_Files_JS_EssT_2011/Exercise Files/Chap07/UsingDebugger/script.js",
+		"/C/Users/poloNYc01/Desktop/Ex_Files_JS_EssT_2011/Ex_Files_JS_EssT_2011/Exercise Files/Chap07/Firebug/mission.htm",
+		"/C/Users/poloNYc01/Desktop/Ex_Files_JS_EssT_2011/Ex_Files_JS_EssT_2011/Exercise Files/Chap07/Firebug/script.js",
+		"/C/Users/poloNYc01/Desktop/Ex_Files_JS_EssT_2011/Ex_Files_JS_EssT_2011/Exercise Files/Chap07/CommonErrors/mission.htm",
+		"/C/Users/poloNYc01/Desktop/Ex_Files_JS_EssT_2011/Ex_Files_JS_EssT_2011/Exercise Files/Chap07/CommonErrors/script.js",
+		"/C/Users/poloNYc01/Desktop/Ex_Files_JS_EssT_2011/Ex_Files_JS_EssT_2011/Exercise Files/Chap06/Timers/mission.htm",
+		"/C/Users/poloNYc01/Desktop/Ex_Files_JS_EssT_2011/Ex_Files_JS_EssT_2011/Exercise Files/Chap06/Timers/script.js",
+		"/C/Users/poloNYc01/Desktop/Ex_Files_JS_EssT_2011/Ex_Files_JS_EssT_2011/Exercise Files/Chap06/FocusAndBlur/contact.htm",
+		"/C/Users/poloNYc01/Desktop/Ex_Files_JS_EssT_2011/Ex_Files_JS_EssT_2011/Exercise Files/Chap06/ClickAndLoad/script.js",
+		"/C/Users/poloNYc01/Desktop/Ex_Files_JS_EssT_2011/Ex_Files_JS_EssT_2011/Exercise Files/Chap06/ClickAndLoad/mission.htm",
+		"/C/Users/poloNYc01/Desktop/Ex_Files_JS_EssT_2011.zip",
+		"/C/Users/poloNYc01/Desktop/Ex_Files_JS_EssT_2011/Ex_Files_JS_EssT_2011/Exercise Files/Chap05/CreatingDOM/script.js",
+		"/C/Users/poloNYc01/Desktop/Ex_Files_JS_EssT_2011/Ex_Files_JS_EssT_2011/Exercise Files/Chap05/CreatingDOM/index.htm",
+		"/C/Users/poloNYc01/Desktop/Ex_Files_JS_EssT_2011/Ex_Files_JS_EssT_2011/Exercise Files/Chap05/AccessingDOM/index.htm",
+		"/C/Users/poloNYc01/Desktop/Ex_Files_JS_EssT_2011/Ex_Files_JS_EssT_2011/Exercise Files/Chap05/AccessingDOM/script.js",
+		"/C/Users/poloNYc01/Desktop/Ex_Files_JS_EssT_2011/Ex_Files_JS_EssT_2011/Exercise Files/Chap01/simple.html",
+		"/C/Users/poloNYc01/Desktop/Exercise Files/Ch03/03_09/start/index.html",
+		"/C/Users/poloNYc01/Desktop/Exercise Files/Ch03/03_09/start/script.js",
+		"/C/Users/poloNYc01/Desktop/Exercise Files/Ch03/03_08/start/script.js",
+		"/C/Users/poloNYc01/Desktop/Exercise Files/Ch03/03_08/start/index.html",
+		"/C/Users/poloNYc01/Desktop/Exercise Files/Ch03/03_07/start/script.js",
+		"/C/Users/poloNYc01/Desktop/Exercise Files/Ch03/03_07/start/index.html",
+		"/C/Users/poloNYc01/Desktop/Exercise Files/Ch03/03_06/start/index.html",
+		"/C/Users/poloNYc01/Desktop/Exercise Files/Ch03/03_06/start/script.js",
+		"/C/Users/poloNYc01/Desktop/Exercise Files/Ch03/03_05/03_06",
+		"/C/Users/poloNYc01/Desktop/Exercise Files/Ch03/03_05/start/index.html",
+		"/C/Users/poloNYc01/Desktop/Exercise Files/Ch03/03_05/start/script.js",
+		"/C/Users/poloNYc01/Desktop/Exercise Files/Ch03/03_04/start/index.html",
+		"/C/Users/poloNYc01/Desktop/Exercise Files/Ch03/03_04/start/script.js",
+		"/C/Users/poloNYc01/Desktop/Exercise Files/Ch03/03_03/start/script.js",
+		"/C/Users/poloNYc01/Desktop/Exercise Files/Ch03/03_03/start/index.html",
+		"/C/Users/poloNYc01/Desktop/Exercise Files/Ch03/03_02/start/index.html",
+		"/C/Users/poloNYc01/Desktop/Exercise Files/Ch03/03_02/start/script.js",
+		"/C/Users/poloNYc01/Desktop/Exercise Files/Ch03/03_01/start/index.html",
+		"/C/Users/poloNYc01/Desktop/Exercise Files/Ch03/03_01/start/script.js",
+		"/C/Users/poloNYc01/Desktop/Exercise Files/Ch02/02_06/start/index.html",
+		"/C/Users/poloNYc01/Desktop/Exercise Files/Ch02/02_06/start/script.js",
+		"/C/Users/poloNYc01/Desktop/Exercise Files/Ch02/02_05/start/script.js",
+		"/C/Users/poloNYc01/Desktop/Exercise Files/Ch02/02_05/start/index.html",
+		"/C/Users/poloNYc01/Desktop/Exercise Files/Ch02/02_01/start/script.js",
+		"/C/Users/poloNYc01/Desktop/Exercise Files/Ch02/02_01/start/index.html",
+		"/C/Users/poloNYc01/Desktop/C9JS_Fundamentals/C9JS_06.html",
+		"/C/Users/poloNYc01/Desktop/C9JS_Fundamentals/C9JS_05.html",
+		"/C/Users/poloNYc01/Desktop/Biography.html",
+		"/C/Users/poloNYc01/Desktop/biagrophy/weblogo.jpg.jpg"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"red",
+			"getElementById",
+			"image1",
+			"var",
+			"10"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "position-page.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 245.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
